@@ -1,0 +1,20 @@
+body{background-color:moccasin;}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: slategrey;}
+nav li{float: left;}
+nav li a{
+    display: block;
+    color: snow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{background: url(istorija/slike/maaap.jpg)}
+h1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center}
+h3, h2{background-color: slategray; color: white; padding: 14px 16px; width:fit-content}
+p{font-family: Georgia, 'Times New Roman', Times, serif;}
